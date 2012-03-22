@@ -1,2 +1,0 @@
-INDEX VERSION 1.126+D:\Workspaces\Train\.metadata\.plugins\org.eclipse.jdt.core
-3983147394.index
